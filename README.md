@@ -13,4 +13,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: He/Him/Sama
 - ⚡ Fun fact: Dunno wha am doin here
 
-
+![Mi equipo](https://github.com/Latrino/Latrino/blob/main/Screenshot%202023-10-17%2017.10.16.png)
